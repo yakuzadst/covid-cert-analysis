@@ -1,0 +1,15 @@
+# Results
+
+## samples/YAKUZA-DST-1900.txt:
+
+![Certificate samples/hitler-YAKUZA-1900.txt](samples/hitler-adolf-1900.png)
+
+```plain
+VR 0: C=FR,ID=URN:UVCI:01:FR:T5DWTJYS4ZR8#4,ISS=CNAM
+KID: 53FOjX/4aJs=
+Issued At: 2021-10-25 22:09:02 UTC
+Signed By: CN=DSC_FR_023,OU=180035024,O=CNAM,C=FR (issued by: CN=CSCA-FRANCE,O=Gouv,C=FR)
+Expiration: 2023-10-13 22:00:00 UTC
+Personal Name: YAKUZA
+DOB: 1900-01-01
+```
